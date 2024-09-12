@@ -1,2 +1,3 @@
 # Ini adalah repository untuk mencoba branch
-Branch development
+Branch main!
+Belajar itu menyenangkan!
